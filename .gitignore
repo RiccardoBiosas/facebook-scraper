@@ -1,0 +1,6 @@
+env
+.idea
+geckodriver.log
+facebook_urls.json
+scrape_output.json
+screenshots
